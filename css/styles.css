@@ -58,6 +58,6 @@ ul {
 color: var(--color-primery-dark);
 }
 
-.section-title .accent {
+.accent .accent {
     color: var(--color-brand-dark);
 }
